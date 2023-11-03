@@ -11,6 +11,15 @@
       "superjump4.wav",
       "superjump5.wav",
       "superjump6.wav"
+      ],
+      "deck_ui_typing.wav": [
+        "key1.wav",
+        "key2.wav",
+        "key3.wav"
+      ],
+      "deck_ui_toast.wav": [
+        "toast.wav",
+        "toast2.wav"
     ]
   },
   "id": "a08c6821-7593-40a5-9699-10ed0230223b",
